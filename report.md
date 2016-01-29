@@ -29,12 +29,15 @@ Put here the screen shot of file (python.png)
 In this section, please report:
 
 1. The hexadecimal value of your student ID.
+
     Hexadecimal representation of 1204756 is 0x126214.
 
 2. Write down the definite integrals that you have chosen.
+
     $$\int_0^{\infty} sin{x^2} dx = \frac{\sqrt{2}\sqrt{\pi}}{4}.$$
 
 3. Write down your system of 10 linear equations.
+
 	\begin{align*}
     	3 x_0 + x_1 + 2 x_2 + 4 x_3 + 9 x_4 + 8 x_5 + x_6 + 5 x_7 + 2 x_9 &= 9,\\
 	x_0 + 2 x_1 + 3 x_2 + 4 x_3 + 5 x_4 + 6 x_5 + 7 x_6 + 8 x_7 + 9 x_8 &= 8,\\
