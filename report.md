@@ -32,7 +32,7 @@ In this section, please report:
     Hexadecimal representation of 1204756 is 0x126214.
 
 2. Write down the definite integrals that you have chosen.
-    $$\int_0^{\infty} sin{x^2} dx = \frac{\sqrt{2}\sqrt{\pi}}{4}.$$
+    \int_0^{\infty} sin{x^2} dx = \frac{\sqrt{2}\sqrt{\pi}}{4}.
 
 3. Write down your system of 10 linear equations.
 	\begin{align*}
